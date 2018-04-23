@@ -15,7 +15,7 @@ One Learner，喜欢研究一些新技术。
 
 <p>
 
-感谢leopardpan <a target="_blank" href='https://github.com/leopardpan'>leopardpan/</a>的模板。
+感谢 <a target="_blank" href='https://github.com/leopardpan'>leopardpan/</a>的模板。
 
 <p>
 
